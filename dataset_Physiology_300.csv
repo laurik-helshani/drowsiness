@@ -1,0 +1,301 @@
+Timestamp_min,PERCLOS_pct,SteeringError_deg,Label
+0,29.7,3.87,Slight fatigue
+0.5,33.2,3.26,Fatigue
+1,32.6,3.22,Fatigue
+1.5,20.5,3.36,Slight fatigue
+2,20.7,1.53,Slight fatigue
+2.5,24.6,4.27,Slight fatigue
+3,22.4,1.96,Slight fatigue
+3.5,21,3.03,Slight fatigue
+4,19.2,2.04,Awake
+4.5,17.7,2.61,Awake
+5,37,4,Fatigue
+5.5,30.7,3.55,Slight fatigue
+6,43.2,5.22,Fatigue
+6.5,51.1,5.34,Drowsy
+7,27.5,3.89,Slight fatigue
+7.5,24.8,2.56,Slight fatigue
+8,5,0.42,Awake
+8.5,18.1,1.38,Awake
+9,37.2,2.41,Fatigue
+9.5,5,0.45,Awake
+10,15.1,3.75,Awake
+10.5,22.6,3.34,Slight fatigue
+11,29.1,3.48,Slight fatigue
+11.5,34.3,3.91,Fatigue
+12,32.6,3.93,Fatigue
+12.5,19.3,2.76,Awake
+13,5,0,Awake
+13.5,19.6,3.25,Awake
+14,32.4,4.46,Fatigue
+14.5,39.3,5.29,Fatigue
+15,30.1,3.97,Slight fatigue
+15.5,46.9,5.64,Drowsy
+16,29.5,4.08,Slight fatigue
+16.5,30.9,4.18,Slight fatigue
+17,29.6,3.27,Slight fatigue
+17.5,45.8,5.03,Drowsy
+18,17.1,2.14,Awake
+18.5,33.9,5.3,Fatigue
+19,39.5,3.75,Fatigue
+19.5,49,4.7,Drowsy
+20,27.6,3.45,Slight fatigue
+20.5,5,0.64,Awake
+21,8.6,1.18,Awake
+21.5,33,4.16,Fatigue
+22,34.8,4,Fatigue
+22.5,18.2,3.37,Awake
+23,44.3,4.04,Fatigue
+23.5,20.7,1.82,Slight fatigue
+24,25.2,2.94,Slight fatigue
+24.5,17.9,0.83,Awake
+25,25.8,2.95,Slight fatigue
+25.5,38.9,6,Fatigue
+26,30.8,3.71,Slight fatigue
+26.5,40.9,5.09,Fatigue
+27,35.3,3.22,Fatigue
+27.5,21,2.02,Slight fatigue
+28,25.8,2.8,Slight fatigue
+28.5,34.8,3.92,Fatigue
+29,14.5,2.77,Awake
+29.5,32,4.29,Fatigue
+30,27.5,2.42,Slight fatigue
+30.5,39.5,4.94,Fatigue
+31,54,6.87,Drowsy
+31.5,10.4,2.16,Awake
+32,27.2,4.52,Slight fatigue
+32.5,22.5,1.89,Slight fatigue
+33,32.5,3.25,Fatigue
+33.5,28.5,2.41,Slight fatigue
+34,38.2,4.39,Fatigue
+34.5,31.2,4.12,Slight fatigue
+35,14.5,2.53,Awake
+35.5,39.5,4.68,Fatigue
+36,23.5,2.57,Slight fatigue
+36.5,45.5,5.58,Drowsy
+37,29.9,2.92,Slight fatigue
+37.5,35.3,5.91,Fatigue
+38,41.3,3.67,Fatigue
+38.5,15.3,1.98,Awake
+39,26.9,4.85,Slight fatigue
+39.5,32.1,3.85,Fatigue
+40,30.8,3.55,Slight fatigue
+40.5,24.6,2.67,Slight fatigue
+41,32,3.69,Slight fatigue
+41.5,24.4,4.03,Slight fatigue
+42,23.6,1.06,Slight fatigue
+42.5,22.5,3.92,Slight fatigue
+43,22.2,1.52,Slight fatigue
+43.5,33.8,3.84,Fatigue
+44,33.9,3.73,Fatigue
+44.5,27.1,3.72,Slight fatigue
+45,41.5,3.7,Fatigue
+45.5,50,6.37,Drowsy
+46,21.5,4.19,Slight fatigue
+46.5,18.4,1.12,Awake
+47,49.6,6.1,Drowsy
+47.5,36.2,3.82,Fatigue
+48,20.5,2.8,Slight fatigue
+48.5,15.4,1.87,Awake
+49,30.6,3.16,Slight fatigue
+49.5,33.8,4.45,Fatigue
+50,33.3,5.44,Fatigue
+50.5,12.6,1.36,Awake
+51,40.3,5.41,Fatigue
+51.5,37.8,3.51,Fatigue
+52,32.3,3.11,Fatigue
+52.5,39.8,5.15,Fatigue
+53,18.9,3.46,Awake
+53.5,6.1,1.02,Awake
+54,18.8,2.01,Awake
+54.5,31.2,3.75,Slight fatigue
+55,39.6,3.75,Fatigue
+55.5,54.8,7.06,Drowsy
+56,22.4,3.39,Slight fatigue
+56.5,31.3,3.39,Slight fatigue
+57,20.8,2.12,Slight fatigue
+57.5,5,0.81,Awake
+58,21.1,2.18,Slight fatigue
+58.5,32.4,3.84,Fatigue
+59,31.4,5.45,Slight fatigue
+59.5,14.2,1.5,Awake
+60,17,1.75,Awake
+60.5,46.1,5.02,Drowsy
+61,13.4,2.21,Awake
+61.5,35.9,4.16,Fatigue
+62,19.6,1.84,Awake
+62.5,12.6,2.57,Awake
+63,19.8,3.51,Awake
+63.5,13.8,1.17,Awake
+64,32.8,2.45,Fatigue
+64.5,29.3,4.32,Slight fatigue
+65,17,1.49,Awake
+65.5,38.9,5.31,Fatigue
+66,32.1,2.28,Fatigue
+66.5,17.2,2.77,Awake
+67,44.6,4.38,Fatigue
+67.5,24.5,3.53,Slight fatigue
+68,38.8,4.67,Fatigue
+68.5,26.1,2.37,Slight fatigue
+69,12.8,1.21,Awake
+69.5,39.2,5.25,Fatigue
+70,29.3,3.6,Slight fatigue
+70.5,11.9,1.9,Awake
+71,30.1,5.2,Slight fatigue
+71.5,21.8,1.36,Slight fatigue
+72,41.7,6.3,Fatigue
+72.5,21.9,2.71,Slight fatigue
+73,31.8,3.09,Slight fatigue
+73.5,18,1.1,Awake
+74,21.8,2.46,Slight fatigue
+74.5,5,1.34,Awake
+75,13.3,1.5,Awake
+75.5,31.1,4.94,Slight fatigue
+76,21.5,1.42,Slight fatigue
+76.5,28.3,3.38,Slight fatigue
+77,21.6,1.59,Slight fatigue
+77.5,37.8,4.83,Fatigue
+78,15.6,2.59,Awake
+78.5,30.5,3.32,Slight fatigue
+79,43.3,3.12,Fatigue
+79.5,17.7,2.29,Awake
+80,14.6,2.1,Awake
+80.5,30.6,4,Slight fatigue
+81,51.8,7.21,Drowsy
+81.5,37.3,3.62,Fatigue
+82,17.8,2.68,Awake
+82.5,28.7,4.4,Slight fatigue
+83,37,3.02,Fatigue
+83.5,32.3,4.13,Fatigue
+84,18.6,1.83,Awake
+84.5,28.2,3.32,Slight fatigue
+85,33.4,4.28,Fatigue
+85.5,17,1.65,Awake
+86,35.2,3.68,Fatigue
+86.5,38.2,4.61,Fatigue
+87,11.8,0.54,Awake
+87.5,29.3,2.65,Slight fatigue
+88,21.4,3.12,Slight fatigue
+88.5,17.5,1.18,Awake
+89,14.2,2.23,Awake
+89.5,34.4,4.49,Fatigue
+90,19.1,0.91,Awake
+90.5,21.3,2.02,Slight fatigue
+91,33.9,5.02,Fatigue
+91.5,29.1,2.7,Slight fatigue
+92,44.6,4.98,Fatigue
+92.5,18.7,2.61,Awake
+93,36.3,4.98,Fatigue
+93.5,28.6,3.23,Slight fatigue
+94,22,2.16,Slight fatigue
+94.5,32.7,5.07,Fatigue
+95,26.1,4.53,Slight fatigue
+95.5,36.5,5.17,Fatigue
+96,25.2,3.1,Slight fatigue
+96.5,45,4.75,Drowsy
+97,28.5,2.75,Slight fatigue
+97.5,14,2.09,Awake
+98,37.9,4.88,Fatigue
+98.5,30.4,4.77,Slight fatigue
+99,22,3.17,Slight fatigue
+99.5,22.5,1.5,Slight fatigue
+100,21.1,3.38,Slight fatigue
+100.5,22.4,1.89,Slight fatigue
+101,17.7,1.82,Awake
+101.5,15.4,2.04,Awake
+102,14.4,3.33,Awake
+102.5,31.5,6.27,Slight fatigue
+103,21.3,3.04,Slight fatigue
+103.5,5,0.45,Awake
+104,32.6,4.34,Fatigue
+104.5,42.4,5.8,Fatigue
+105,8.9,0.81,Awake
+105.5,25.4,4.48,Slight fatigue
+106,45.9,5.69,Drowsy
+106.5,14.8,2.18,Awake
+107,37.5,5.03,Fatigue
+107.5,27.9,3.69,Slight fatigue
+108,23.4,3.47,Slight fatigue
+108.5,16.1,1.44,Awake
+109,24.1,2.44,Slight fatigue
+109.5,26.2,2.26,Slight fatigue
+110,23.2,3.13,Slight fatigue
+110.5,32,4.46,Slight fatigue
+111,27.4,3.66,Slight fatigue
+111.5,15.3,3.18,Awake
+112,22.3,2.67,Slight fatigue
+112.5,18.1,2.7,Awake
+113,42.4,4.21,Fatigue
+113.5,26.1,2.82,Slight fatigue
+114,25.4,3.6,Slight fatigue
+114.5,7.2,1.54,Awake
+115,34.3,3.88,Fatigue
+115.5,26.6,3.14,Slight fatigue
+116,30.6,2.45,Slight fatigue
+116.5,33.6,3.74,Fatigue
+117,25.3,3.75,Slight fatigue
+117.5,58,7.42,Drowsy
+118,40.5,5.26,Fatigue
+118.5,36.1,4.38,Fatigue
+119,18.4,2.21,Awake
+119.5,5,0.07,Awake
+120,25.6,3.63,Slight fatigue
+120.5,27.6,3.65,Slight fatigue
+121,24.7,3.36,Slight fatigue
+121.5,17.1,1.64,Awake
+122,33.2,2.26,Fatigue
+122.5,31.2,4.62,Slight fatigue
+123,18.2,1.81,Awake
+123.5,22.9,2.06,Slight fatigue
+124,24.5,3.49,Slight fatigue
+124.5,18.8,1.94,Awake
+125,54.1,7.34,Drowsy
+125.5,16.9,2.52,Awake
+126,31.3,4.3,Slight fatigue
+126.5,44.8,4.28,Fatigue
+127,16.2,2.91,Awake
+127.5,10.2,1.43,Awake
+128,27,2.94,Slight fatigue
+128.5,22.8,2.86,Slight fatigue
+129,13.2,0.16,Awake
+129.5,15.8,2.23,Awake
+130,15.9,1.08,Awake
+130.5,19.9,1.3,Awake
+131,29.2,2.29,Slight fatigue
+131.5,43.5,6.11,Fatigue
+132,31.8,3.31,Slight fatigue
+132.5,33.5,5.25,Fatigue
+133,5,0.17,Awake
+133.5,29.1,2.12,Slight fatigue
+134,33.9,3.17,Fatigue
+134.5,27.1,4.24,Slight fatigue
+135,32.4,3.76,Fatigue
+135.5,17.2,1.63,Awake
+136,34.7,4.29,Fatigue
+136.5,27,3.65,Slight fatigue
+137,32.3,4.77,Fatigue
+137.5,39.6,5.91,Fatigue
+138,37.2,4.18,Fatigue
+138.5,34.4,3.07,Fatigue
+139,31.6,3.46,Slight fatigue
+139.5,32.7,4.13,Fatigue
+140,42.1,4.28,Fatigue
+140.5,31.8,3.05,Slight fatigue
+141,35.8,4.57,Fatigue
+141.5,8.9,1.03,Awake
+142,24.4,2.96,Slight fatigue
+142.5,36.5,3.77,Fatigue
+143,28.6,3.24,Slight fatigue
+143.5,34.8,3.43,Fatigue
+144,22.5,3.42,Slight fatigue
+144.5,21.9,3.45,Slight fatigue
+145,48.4,4.33,Drowsy
+145.5,28.4,2.66,Slight fatigue
+146,32.7,2.73,Fatigue
+146.5,15.6,1.35,Awake
+147,31.1,3.66,Slight fatigue
+147.5,35.1,3.06,Fatigue
+148,34.5,3.41,Fatigue
+148.5,30.6,2.87,Slight fatigue
+149,9.5,1.3,Awake
+149.5,31.9,3.88,Slight fatigue
