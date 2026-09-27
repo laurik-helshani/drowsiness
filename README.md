@@ -52,7 +52,7 @@ Columns:
 
 ## Data Statement
 
-The datasets are synthetic and contain no personally identifiable information. They were computationally generated for research and educational purposes and are intended to support the evaluation of driver drowsiness detection methods.
+The datasets are fully anonymized and contain no personally identifiable information. They are made available for research and educational purposes under an open license. 
 
 ## Intended Use
 
